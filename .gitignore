@@ -1,0 +1,12 @@
+node_modules/
+dist/
+env.local
+.env
+.env.*.local
+/.idea
+/.vscode
+*.log
+coverage/
+/.husky/
+pnpm-lock.yaml
+package-lock.json
